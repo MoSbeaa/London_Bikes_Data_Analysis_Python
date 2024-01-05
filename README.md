@@ -14,7 +14,8 @@ All the Python work existed in the main.ipynb file
 
 #### Number of bike riders per month
 
-![Number of bike riders per month](https://github.com/MoSbeaa/London_Bikes_Data_Analysis_Python/tree/main/img/1.png)
+![1](https://github.com/MoSbeaa/London_Bikes_Data_Analysis_Python/assets/74121614/11828f27-7e05-410b-8bfc-d1e71caa5268)
+
 
 
 #####  Analysis:
