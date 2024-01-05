@@ -5,7 +5,7 @@ This project is about analyzing the number of bike riders in London and the rela
 ## Description
 
 The main focus of this project is to apply the data analysis process of identifying data, cleaning, analyzing, visualizing, and sharing it.
-
+The "London Bikes Dataset Analysis using Python" project explores the correlation between bike ridership in London and weather conditions. Through comprehensive data analysis, it reveals seasonal ridership patterns, positive correlations with factors like temperature, and the impact of weather conditions on rider preferences. Key findings emphasize the importance of weather, with clear skies and optimal temperatures driving higher ridership, while rain and adverse conditions significantly reduce bike usage.
 ## The code
 
 All the Python work existed in the main.ipynb file
