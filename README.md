@@ -30,7 +30,8 @@ All the Python work existed in the main.ipynb file
 + Other factors, such as weather conditions and events, may also influence ridership within seasons.
 
 #### Correlation between all features
-![Correlation between all features](https://github.com/MoSbeaa/London_Bikes_Data_Analysis_Python/img/2.png)
+![2](https://github.com/MoSbeaa/London_Bikes_Data_Analysis_Python/assets/74121614/139cfb32-6c0b-4dba-aa8f-82deebf6bafb)
+
 
 #####  Analysis:
 
@@ -52,7 +53,8 @@ All the Python work existed in the main.ipynb file
 + This analysis shows associations, not causal relationships. Factors like seasonality and urban infrastructure may also play a role.
 
 #### Number of bike riders by weather
-![Number of bike riders by weather](https://github.com/MoSbeaa/London_Bikes_Data_Analysis_Python/img/3.png)
+![3](https://github.com/MoSbeaa/London_Bikes_Data_Analysis_Python/assets/74121614/c0c02e82-745f-475e-88f3-d8b1161717b5)
+
 
 #####  Analysis:
 
@@ -68,7 +70,8 @@ All the Python work existed in the main.ipynb file
 
 
 #### Relationship between temperature and number of bike riders
-![Relationship between temperature and number of bike riders](https://github.com/MoSbeaa/London_Bikes_Data_Analysis_Python/img/4.png)
+![4](https://github.com/MoSbeaa/London_Bikes_Data_Analysis_Python/assets/74121614/c0b1165e-396d-4c85-82bd-78b4efce2d98)
+
 
 #####  Analysis:
 
@@ -83,11 +86,12 @@ All the Python work existed in the main.ipynb file
 + Enjoyment: Biking can be a more enjoyable activity when the weather is pleasant. People may be more likely to bike when they know they will have a good time.
 
 #### Number of bike riders by weekend or not
-![Number of bike riders by weekend or not](https://github.com/MoSbeaa/London_Bikes_Data_Analysis_Python/img/5.png)
+![5](https://github.com/MoSbeaa/London_Bikes_Data_Analysis_Python/assets/74121614/0f5a9dd9-7cea-4808-bc19-2f2d6e7a2b12)
+
 
 ##### Analysis:
 
-1. Number of riders in weekdays is triple number of riders in the weekend days
+1. The number of riders on weekdays is triple the number of riders on weekend days
 
 ##### Conclusions:
 
